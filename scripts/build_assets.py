@@ -10,14 +10,14 @@ from pathlib import Path
 ICONS = Path(__file__).parent / "icons"
 OUT = Path(sys.argv[1])
 
-# GitHub's own font stack and Primer colours, so the assets read as native GitHub UI
+# GitHub's own font stack and Primer colours (icons use the contribution-graph green), so the assets read as native GitHub UI
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif"
 ENVELOPE = "M2 4h20a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 2.2V18h20V6.2l-10 6.3L2 6.2zM3.6 6 12 11.3 20.4 6H3.6z"
 
 # File suffix -> palette
 THEMES = {
-    "": {"card": "#0d1117", "chip": "#161b22", "border": "#30363d", "text": "#e6edf3", "muted": "#8b949e", "icon": "#8b949e"},
-    "-light": {"card": "#ffffff", "chip": "#f6f8fa", "border": "#d0d7de", "text": "#1f2328", "muted": "#656d76", "icon": "#656d76"},
+    "": {"card": "#0d1117", "chip": "#161b22", "border": "#30363d", "text": "#e6edf3", "muted": "#8b949e", "icon": "#3fb950"},
+    "-light": {"card": "#ffffff", "chip": "#f6f8fa", "border": "#d0d7de", "text": "#1f2328", "muted": "#656d76", "icon": "#1a7f37"},
 }
 
 BUTTONS = [

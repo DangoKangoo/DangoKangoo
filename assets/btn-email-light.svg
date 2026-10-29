@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="87" height="32" viewBox="0 0 87 32">
   <rect x="0.5" y="0.5" width="86" height="31" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-  <path d="M2 4h20a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 2.2V18h20V6.2l-10 6.3L2 6.2zM3.6 6 12 11.3 20.4 6H3.6z" fill="#656d76" transform="translate(14.0 8.0) scale(0.6667)"/>
+  <path d="M2 4h20a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 2.2V18h20V6.2l-10 6.3L2 6.2zM3.6 6 12 11.3 20.4 6H3.6z" fill="#1a7f37" transform="translate(14.0 8.0) scale(0.6667)"/>
   <text x="38" y="20.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#1f2328">Email</text>
 </svg>
