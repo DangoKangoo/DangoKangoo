@@ -26,7 +26,7 @@
 
 </td>
 <td width="38%" align="center">
-  <img src="assets/me.gif" width="260" alt="Will on a coastal trail" />
+  <img src="assets/me.jpg" width="260" alt="Will on a coastal trail" />
 </td>
 </tr>
 </table>
