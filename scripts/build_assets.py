@@ -29,7 +29,7 @@ STACK = [
     ("Machine Learning", [("python", "Python"), ("pytorch", "PyTorch"), ("streamlit", "Streamlit"), ("latex", "LaTeX")]),
     ("Web", [("typescript", "TypeScript"), ("react", "React"), ("nextdotjs", "Next.js"), ("astro", "Astro"), ("tailwindcss", "Tailwind")]),
     ("Commerce & Cloud", [("shopify", "Shopify"), ("aws", "AWS"), ("vercel", "Vercel"), ("git", "Git")]),
-    ("Systems & Apps", [("cplusplus", "C++"), ("dotnet", "C#"), ("openjdk", "Java"), ("swift", "Swift")]),
+    ("Systems & Apps", [("dotnet", "C#"), ("openjdk", "Java"), ("swift", "Swift")]),
 ]
 
 

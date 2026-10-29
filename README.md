@@ -21,5 +21,5 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C++, C#, Java, Swift" />
+  <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C#, Java, Swift" />
 </picture>
