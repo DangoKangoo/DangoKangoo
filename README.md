@@ -39,11 +39,6 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/DangoKangoo/DeepSkin-Replication-and-Extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DangoKangoo&repo=DeepSkin-Replication-and-Extension&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/DangoKangoo/solar-inspection-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DangoKangoo&repo=solar-inspection-ai&theme=tokyonight&hide_border=true" /></a>
-</p>
-
 | Project | What it is |
 |---|---|
 | ⛳ [Twin Arrows Golf](https://twin-arrows-golf.vercel.app) | Storefront with US duties & shipping logic |
@@ -54,7 +49,6 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DangoKangoo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=DangoKangoo&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
