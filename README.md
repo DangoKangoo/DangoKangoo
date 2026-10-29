@@ -12,10 +12,11 @@
 
 ### 👋 Hey, I'm Will
 
-- 🧠 Building **ML / computer vision** models: skin-lesion classification, diffusion augmentation, solar panel inspection
-- 🌐 Shipping **websites for golf businesses** and e-commerce stores
-- 🏌️ Working with **[@Twin-Arrows-Golf](https://github.com/Twin-Arrows-Golf)** and **[@TechleftNL](https://github.com/TechleftNL)**
-- 🌊 Off the keyboard: hiking coastal trails
+- 🏗️ Building **scalable systems**: full-stack web, e-commerce and ML pipelines
+- 🤝 Working with **clients all over the country**, including **[@Twin-Arrows-Golf](https://github.com/Twin-Arrows-Golf)** and **[@TechleftNL](https://github.com/TechleftNL)**
+- 🧠 Machine learning and computer vision
+- 🟢 **Open to work**: let's build something together
+- ⛳ Off the keyboard: golfing and hiking
 
 <p>
   <a href="https://dangokangoo.github.io/william-odriscoll/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=astro&logoColor=white" /></a>
