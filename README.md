@@ -1,4 +1,9 @@
-<img src="assets/header.svg" width="100%" alt="Will O'Driscoll: Software Engineer, Machine Learning, Full-stack" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangoKangoo/DangoKangoo/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DangoKangoo/DangoKangoo/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
 <img align="right" src="assets/me-rounded.png" width="230" alt="Will on a coastal trail" />
 
@@ -39,11 +44,4 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DangoKangoo&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangoKangoo/DangoKangoo/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/DangoKangoo/DangoKangoo/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
 </p>
