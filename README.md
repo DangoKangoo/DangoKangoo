@@ -42,8 +42,8 @@
 
 | Project | What it is |
 |---|---|
-| ⛳ [Twin Arrows Golf](https://twin-arrows-golf.vercel.app) | Storefront with US duties & shipping logic |
-| 💄 [Mauzy Balm](https://mauzybalm.ca) | Shopify store for a lip balm brand |
+| ⛳ [Twin Arrows Golf](https://twinarrowsgolf.com) | Storefront with US duties & shipping logic |
+| 🏌️ [Dormston Indoor Golf](https://www.dormstongolf.com) | Golf simulator venue site with online bay booking and local SEO |
 | 🧬 [DeepSkin](https://github.com/DangoKangoo/DeepSkin-Replication-and-Extension) | Replication of DeepSkin (IEEE Access 2023): DenseNet169 vs EfficientNet-B0 on HAM10000, with GradCAM + SHAP |
 | ☀️ [Solar Inspection AI](https://github.com/DangoKangoo/solar-inspection-ai) | Streamlit app that scores solar panel images with a ResNet model + Grad-CAM |
 
