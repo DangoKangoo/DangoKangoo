@@ -15,14 +15,11 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 - Off the keyboard: **golf** and **hiking**
 
 <p>
-  <a href="https://www.linkedin.com/in/will-odriscoll"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
-  <a href="mailto:willod17@outlook.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/will-odriscoll"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" /><img src="assets/btn-linkedin.svg" height="32" alt="LinkedIn" /></picture></a>
+  <a href="mailto:willod17@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg" /><img src="assets/btn-email.svg" height="32" alt="Email" /></picture></a>
 </p>
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, Vercel, Git, C++, C#, Java, Swift" />
-
-### Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DangoKangoo&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C++, C#, Java, Swift" />
+</picture>
