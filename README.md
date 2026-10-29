@@ -19,7 +19,7 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
   <a href="mailto:willod17@outlook.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
 </p>
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, Vercel, Git, C++, Swift" />
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, Vercel, Git, C++, C#, Java, Swift" />
 
 ### Stats
 
