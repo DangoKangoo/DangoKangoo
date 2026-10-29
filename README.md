@@ -13,7 +13,7 @@
 ### 👋 Hey, I'm Will
 
 - 🏗️ Building **scalable systems**: full-stack web, e-commerce and ML pipelines
-- 🤝 Working with **clients all over the country**, including **[@Twin-Arrows-Golf](https://github.com/Twin-Arrows-Golf)** and **[@TechleftNL](https://github.com/TechleftNL)**
+- 🤝 Working with **clients all over the country**
 - 🧠 Machine learning and computer vision
 - 🟢 **Open to work**: let's build something together
 - ⛳ Off the keyboard: golfing and hiking
