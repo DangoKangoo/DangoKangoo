@@ -53,17 +53,17 @@ def button(t, label, glyph):
     w = 14 + 16 + 8 + text_width(label, 14) + 16
     h = 32
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w:.0f}" height="{h}" viewBox="0 0 {w:.0f} {h}">
-  <rect x="0.5" y="0.5" width="{w - 1:.0f}" height="{h - 1}" rx="6" fill="{t['chip']}" stroke="{t['border']}"/>
+  <rect x="0.5" y="0.5" width="{w - 1:.0f}" height="{h - 1}" rx="6" fill="{t['chip']}"/>
   {icon(glyph, 14, 8, 16, t['icon'])}
   <text x="38" y="20.5" font-family="{FONT}" font-size="14" font-weight="500" fill="{t['text']}">{escape(label)}</text>
 </svg>'''
 
 
 def stack_card(t, groups):
-    width, pad, label_w, row_h, chip_h, gap = 880, 20, 160, 40, 28, 8
-    height = pad * 2 + 28 + row_h * len(groups) - (row_h - chip_h)
+    # No card frame: the stack sits flush with the README text
+    width, pad, label_w, row_h, chip_h, gap = 880, 0, 160, 40, 28, 8
+    height = pad * 2 + 28 + row_h * len(groups) - (row_h - chip_h) + 2
     parts = [
-        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="6" fill="{t["card"]}" stroke="{t["border"]}"/>',
         f'<text x="{pad}" y="{pad + 14}" font-family="{FONT}" font-size="14" font-weight="600" fill="{t["text"]}">Tech stack</text>',
     ]
     y = pad + 28
