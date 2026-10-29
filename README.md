@@ -15,17 +15,11 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 - Off the keyboard: **golf** and **hiking**
 
 <p>
-  <a href="https://dangokangoo.github.io/william-odriscoll/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=astro&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/will-odriscoll"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:willod17@outlook.com"><img src="https://img.shields.io/badge/Email-1b3a5c?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/will-odriscoll"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="mailto:willod17@outlook.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
 </p>
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,swift,latex&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,vercel,git&theme=dark" />
-</p>
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, Vercel, Git, C++, Swift" />
 
 ### Stats
 
