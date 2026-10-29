@@ -25,9 +25,12 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 </picture>
 
 <!-- STATS:START -->
+I joined GitHub **4** years ago and have since made **1,013** contributions, opened **6** pull requests and shipped work across **4** repositories. Current streak: **1** day.
 <!-- STATS:END -->
 
 #### Recently shipped
 
 <!-- SHIPPED:START -->
+- [Student 3: Frontend UI, LLM integration & AI features (Weeks 5-6)](https://github.com/jordan-badcock/ai-study-assistant/pull/12) · `jordan-badcock/ai-study-assistant` · 4 months ago
+- [Week 4: Flashcard & Quiz generator + generation reliability](https://github.com/jordan-badcock/ai-study-assistant/pull/10) · `jordan-badcock/ai-study-assistant` · 4 months ago
 <!-- SHIPPED:END -->
