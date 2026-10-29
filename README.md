@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<img align="right" src="assets/me-rounded.png" width="230" alt="Will on a coastal trail" />
-
 ### About
 
 Software engineer building **scalable systems** across full-stack web, e-commerce and machine learning.
@@ -21,8 +19,6 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
   <a href="https://www.linkedin.com/in/will-odriscoll"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:willod17@outlook.com"><img src="https://img.shields.io/badge/Email-1b3a5c?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
-
-<br clear="right" />
 
 ### Tech Stack
 
