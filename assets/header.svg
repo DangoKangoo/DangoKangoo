@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <clipPath id="card"><rect width="1200" height="300" rx="20"/></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="0.5" cy="0.5" r="0.65">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9d4ff"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .glow-a { animation: floatA 14s ease-in-out infinite alternate; }
+    .glow-b { animation: floatB 18s ease-in-out infinite alternate; }
+    .grid { animation: pan 12s linear infinite; }
+    .dot { animation: pulse 2s ease-in-out infinite; transform-origin: 537px 238px; }
+    @keyframes floatA { from { transform: translate(0, 0); } to { transform: translate(120px, 30px); } }
+    @keyframes floatB { from { transform: translate(0, 0); } to { transform: translate(-140px, -25px); } }
+    @keyframes pan { from { transform: translate(0, 0); } to { transform: translate(40px, 40px); } }
+    @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(1.6); } }
+    text { font-family: "Inter", "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif; }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#0a0f1c"/>
+
+    <!-- Soft gradient glows -->
+    <circle class="glow-a" cx="260" cy="60" r="190" fill="#2f6bff" opacity="0.32" filter="url(#blur)"/>
+    <circle class="glow-b" cx="980" cy="260" r="210" fill="#13b5a5" opacity="0.30" filter="url(#blur)"/>
+    <circle cx="760" cy="40" r="120" fill="#7c4dff" opacity="0.22" filter="url(#blur)"/>
+
+    <!-- Faint moving grid, faded at the edges -->
+    <g mask="url(#gridMask)">
+      <rect class="grid" x="-40" y="-40" width="1280" height="380" fill="url(#grid)"/>
+    </g>
+
+    <!-- Text -->
+    <g text-anchor="middle">
+      <text x="600" y="140" font-size="76" font-weight="700" letter-spacing="-2" fill="url(#nameFill)">Will O'Driscoll</text>
+      <text x="600" y="190" font-size="24" font-weight="500" fill="#9fb3d1" letter-spacing="0.5">Software Engineer  ·  Machine Learning  ·  Full-stack</text>
+    </g>
+
+    <!-- Open to work pill -->
+    <g>
+      <rect x="520" y="220" width="160" height="36" rx="18" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+      <circle class="dot" cx="537" cy="238" r="9" fill="#2ecc71" opacity="0.35"/>
+      <circle cx="537" cy="238" r="5" fill="#2ecc71"/>
+      <text x="612" y="244" text-anchor="middle" font-size="16" font-weight="600" fill="#d7e3f4">Open to work</text>
+    </g>
+
+    <rect width="1200" height="300" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+</svg>

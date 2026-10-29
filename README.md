@@ -1,22 +1,15 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Will O'Driscoll: Software Engineer, Machine Learning, Full-stack" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:3a7bd5&height=180&section=header&text=Will%20O'Driscoll&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img align="right" src="assets/me-rounded.png" width="230" alt="Will on a coastal trail" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3A7BD5&center=true&vCenter=true&width=520&lines=Software+Engineer;Machine+Learning+%26+Computer+Vision;Full-stack+web+for+golf+businesses;Shipping+Shopify+%2B+Astro+sites" alt="Typing intro" />
+### About
 
-</div>
+Software engineer building **scalable systems** across full-stack web, e-commerce and machine learning.
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### 👋 Hey, I'm Will
-
-- 🏗️ Building **scalable systems**: full-stack web, e-commerce and ML pipelines
-- 🤝 Working with **clients all over the country**
-- 🧠 Machine learning and computer vision
-- 🟢 **Open to work**: let's build something together
-- ⛳ Off the keyboard: golfing and hiking
+- Working with **clients across the country**
+- **Machine learning & computer vision**, from research to production apps
+- **Open to work**: let's build something together
+- Off the keyboard: **golf** and **hiking**
 
 <p>
   <a href="https://dangokangoo.github.io/william-odriscoll/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=astro&logoColor=white" /></a>
@@ -24,30 +17,25 @@
   <a href="mailto:willod17@outlook.com"><img src="https://img.shields.io/badge/Email-1b3a5c?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
 
-</td>
-<td width="38%" align="center">
-  <img src="assets/me.jpg" width="260" alt="Will on a coastal trail" />
-</td>
-</tr>
-</table>
+<br clear="right" />
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,swift,latex&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,vercel,git&theme=dark" />
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it is |
 |---|---|
-| ⛳ [Twin Arrows Golf](https://twinarrowsgolf.com) | Storefront with US duties & shipping logic |
-| 🏌️ [Dormston Indoor Golf](https://www.dormstongolf.com) | Golf simulator venue site with online bay booking and local SEO |
-| 🧬 [DeepSkin](https://github.com/DangoKangoo/DeepSkin-Replication-and-Extension) | Replication of DeepSkin (IEEE Access 2023): DenseNet169 vs EfficientNet-B0 on HAM10000, with GradCAM + SHAP |
-| ☀️ [Solar Inspection AI](https://github.com/DangoKangoo/solar-inspection-ai) | Streamlit app that scores solar panel images with a ResNet model + Grad-CAM |
+| [Twin Arrows Golf](https://twinarrowsgolf.com) | Storefront with US duties & shipping logic |
+| [Dormston Indoor Golf](https://www.dormstongolf.com) | Golf simulator venue site with online bay booking and local SEO |
+| [DeepSkin](https://github.com/DangoKangoo/DeepSkin-Replication-and-Extension) | Replication of DeepSkin (IEEE Access 2023): DenseNet169 vs EfficientNet-B0 on HAM10000, with GradCAM + SHAP |
+| [Solar Inspection AI](https://github.com/DangoKangoo/solar-inspection-ai) | Streamlit app that scores solar panel images with a ResNet model + Grad-CAM |
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DangoKangoo&theme=tokyonight&hide_border=true" height="165" />
@@ -59,5 +47,3 @@
     <img src="https://raw.githubusercontent.com/DangoKangoo/DangoKangoo/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:1b3a5c,100:0d1b2a&height=100&section=footer" width="100%" />
