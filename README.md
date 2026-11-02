@@ -9,7 +9,10 @@ Hi, I'm Will, a software engineer. I build websites, Shopify stores and machine 
 
 Lately I've been doing a lot of computer vision, taking models from research into apps people actually use. Away from work I'm a golfer, hiker, runner and weightlifter.
 
-[LinkedIn](https://www.linkedin.com/in/will-odriscoll) · [Email](mailto:willod17@outlook.com)
+<p>
+  <a href="https://www.linkedin.com/in/will-odriscoll"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" /><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></picture></a>
+  <a href="mailto:willod17@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg" /><img src="assets/btn-email.svg" height="36" alt="Email" /></picture></a>
+</p>
 
 ### Currently building
 
@@ -23,4 +26,7 @@ If Keel is useful to you, a coffee helps keep it going:
   <a href="https://buymeacoffee.com/willodriscoll"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee" /></a>
 </p>
 
-**Tools I use:** Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C#, Java, Swift
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg" />
+  <img src="assets/tools.svg" width="100%" alt="Tools I use: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C#, Java, Swift" />
+</picture>
