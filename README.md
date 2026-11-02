@@ -30,7 +30,7 @@ A personal training app that plans **running and strength training together** as
 If Keel is useful to you, a coffee helps keep it going:
 
 <p>
-  <a href="https://buymeacoffee.com/willodriscoll"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-coffee-light.svg" /><img src="assets/btn-coffee.svg" height="32" alt="Buy me a coffee" /></picture></a>
+  <a href="https://buymeacoffee.com/willodriscoll"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee" /></a>
 </p>
 
 <picture>
