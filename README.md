@@ -5,7 +5,6 @@
 
 Hi, I'm Will. I build websites, Shopify stores and machine learning projects for clients across the country, and I'm open to new work. If you have a project or a role in mind, get in touch.
 
-Away from work I'm a golfer, hiker, runner and weightlifter.
 
 <p>
   <a href="https://www.linkedin.com/in/will-odriscoll"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" /><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></picture></a>
