@@ -14,6 +14,8 @@ Software engineer building **scalable systems** across full-stack web, e-commerc
 - **Open to work**: let's build something together
 - Off the keyboard: **golf** and **hiking**
 
+Have a project in mind or a role to fill? **Get in touch:**
+
 <p>
   <a href="https://www.linkedin.com/in/will-odriscoll"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg" /><img src="assets/btn-linkedin.svg" height="32" alt="LinkedIn" /></picture></a>
   <a href="mailto:willod17@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg" /><img src="assets/btn-email.svg" height="32" alt="Email" /></picture></a>
