@@ -21,7 +21,9 @@ Have a project in mind or a role to fill? **Get in touch:**
   <a href="mailto:willod17@outlook.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg" /><img src="assets/btn-email.svg" height="32" alt="Email" /></picture></a>
 </p>
 
-### Currently building: [Keel](https://github.com/DangoKangoo/keel)
+### Currently building
+
+<a href="https://github.com/DangoKangoo/keel"><picture><source media="(prefers-color-scheme: light)" srcset="assets/keel-logo-on-light.svg" /><img src="assets/keel-logo-on-dark.svg" height="40" alt="Keel" /></picture></a>
 
 A personal training app that plans **running and strength training together** as one long-term programme. It pulls data from **Garmin Connect** and **Hevy**, merges sessions recorded in both, and builds training blocks toward a goal race.
 
