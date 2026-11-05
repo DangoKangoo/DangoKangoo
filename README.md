@@ -20,12 +20,6 @@ Hi, I'm Will. I build websites, Shopify stores and machine learning projects for
 
 A personal training app that plans running and strength training together as one long-term programme. It pulls data from Garmin Connect and Hevy, merges sessions recorded in both, and builds training blocks toward a goal race.
 
-If Keel is useful to you, a coffee helps keep it going:
-
-<p>
-  <a href="https://buymeacoffee.com/willodriscoll"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee" /></a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg" />
   <img src="assets/tools.svg" width="100%" alt="Tools I use: Python, PyTorch, Streamlit, LaTeX, TypeScript, React, Next.js, Astro, Tailwind, Shopify, AWS, Vercel, Git, C#, Java, Swift" />
